@@ -6,7 +6,11 @@
 //   import Exemplo03 from './componentes/Exemplo03LacoFor.vue';
   // import Exemplo04 from './componentes/Exemplo04HTML.vue';
   // import Exemplo05 from './componentes/Exemplo05Model.vue';
-  import Exemplo06 from './componentes/Exemplo06Class.vue';
+  // import Exemplo06 from './componentes/Exemplo06Class.vue';
+  // import Exemplo06 from './componentes/Exemplo07Clique.vue';
+  // import Exemplo06 from './componentes/Exemplo08Teclado.vue';
+  // import Exemplo06 from './componentes/Exemplo09Submit.vue';
+  import Exemplo06 from './componentes/Exemplo09-1PreventDefault.vue';
 </script>
 
 <!-- HTML -->
