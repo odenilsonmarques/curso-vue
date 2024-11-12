@@ -10,7 +10,8 @@
   // import Exemplo06 from './componentes/Exemplo07Clique.vue';
   // import Exemplo06 from './componentes/Exemplo08Teclado.vue';
   // import Exemplo06 from './componentes/Exemplo09Submit.vue';
-  import Exemplo06 from './componentes/Exemplo09-1PreventDefault.vue';
+  // import Exemplo06 from './componentes/Exemplo09-1PreventDefault.vue';
+  import Exemplo06 from './componentes/Exemplo10Lifecycle.vue';
 </script>
 
 <!-- HTML -->
